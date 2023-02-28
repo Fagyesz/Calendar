@@ -2,16 +2,16 @@
 
 First, let's break down the steps we need to take:
 
-Create a form to input event details.
-Add functionality to save the event to a calendar.
-Create a form to input friend's free times.
-Add functionality to match available free times.
+    Create a form to input event details.
+    Add functionality to save the event to a calendar.
+    Create a form to input friend's free times.
+    Add functionality to match available free times.
 --------------------------------
-Create a project in Google Cloud Console and enable Google Calendar API.
-Create OAuth 2.0 credentials for the project to authorize our application.
-Install Google.Apis.Calendar NuGet package in our application to use the API.
-Implement authentication and authorization flow to get user consent to access their calendar.
-Implement functionality to add events to the user's calendar and match available free times with friends.
+    Create a project in Google Cloud Console and enable Google Calendar API.
+    Create OAuth 2.0 credentials for the project to authorize our application.
+    Install Google.Apis.Calendar NuGet package in our application to use the API.
+    Implement authentication and authorization flow to get user consent to access their calendar.
+    Implement functionality to add events to the user's calendar and match available free times with friends.
 -----------------------------
 Here are the steps we need to follow to use Google Calendar API in our C# WinForms application:
 
